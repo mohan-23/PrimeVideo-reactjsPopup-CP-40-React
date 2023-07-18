@@ -1,0 +1,18 @@
+.not-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.not-logo {
+  height: 200px;
+  width: 200px;
+}
+
+.not-heading {
+  color: #323f4b;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: 600;
+}

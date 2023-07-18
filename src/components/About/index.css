@@ -1,0 +1,10 @@
+.about-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-icon {
+  height: 500px;
+  width: 600px;
+}

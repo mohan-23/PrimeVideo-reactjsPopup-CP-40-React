@@ -1,0 +1,73 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  border: 1px solid #dcdcdc;
+  height: 80px;
+  width: 100%;
+}
+
+.nav-logo {
+  height: 40px;
+  width: 40px;
+}
+
+.trigger-button {
+  background-color: transparent;
+  border: none;
+}
+
+.menu-icon {
+  height: 30px;
+  width: 30px;
+}
+
+.popup-menu {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  padding: 0px;
+}
+
+.row-button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: transparent;
+  border: none;
+}
+
+.tab {
+  color: #323f4b;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.paths {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.item {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.img-button {
+  background-color: transparent;
+  border: none;
+}
+
+.link {
+  text-decoration: none;
+}
